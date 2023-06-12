@@ -35,4 +35,4 @@ The arrays [9, 7, 7, 7] and [9, 7, 9, 9] are not equal because the counts of 7 a
 
 Write a function that accepts two arrays and returns true if the two arrays are equal, false otherwise. You may find it useful to use a Map in this solution.
 
-# Write the solution to this task in the file named src/equalArrays.js.
+Write the solution to this task in the file named src/equalArrays.js.
