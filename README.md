@@ -24,7 +24,7 @@ Write a function that accepts two Sets and returns the difference between the Se
 
 For example, given the Set {1,2,3,4} and the Set {3,4,5,6}, the difference is the Set {1,2}.
 
-Write the solutions to these tasks in the file named src/setOperations.js.
+Write the solutions to these tasks in the file named setOperations.js.
 
 # Array equality
 Two arrays are equal if they contain the same elements but not necessarily in the same order. If any element in the arrays are repeated, then the counts of the occurrence of that element must be the same in both arrays.
@@ -35,4 +35,4 @@ The arrays [9, 7, 7, 7] and [9, 7, 9, 9] are not equal because the counts of 7 a
 
 Write a function that accepts two arrays and returns true if the two arrays are equal, false otherwise. You may find it useful to use a Map in this solution.
 
-Write the solution to this task in the file named src/equalArrays.js.
+Write the solution to this task in the file named equalArrays.js.
